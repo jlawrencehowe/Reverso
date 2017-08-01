@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="powerup_base_data" version="1.3.0" audacityversion="2.1.1" sel0="0.1099408278" sel1="0.1099408278" vpos="400" h="0.0000000000" zoom="1109.6878425942" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="AltPickup2" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="51993">
+				<waveblock start="0">
+					<simpleblockfile filename="e000079b.au" len="51993" min="-0.566025" max="0.867236" rms="0.084589"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Powerup" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="0.398107" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="44019">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a38.au" len="44019" min="-0.453278" max="0.493835" rms="0.083517"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="0.632279534110" val="1.000000000000"/>
+				<controlpoint t="0.775374376040" val="0.291666686535"/>
+				<controlpoint t="0.843594009983" val="0.000000100000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Powerup" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="0.398107" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="44019">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000923.au" len="44019" min="-0.461212" max="0.39682" rms="0.080828"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="0.632279534110" val="1.000000000000"/>
+				<controlpoint t="0.775374376040" val="0.291666686535"/>
+				<controlpoint t="0.843594009983" val="0.000000100000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Laser-whiplash-01" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="-0.06308390">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="28773">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ed7.au" len="28773" min="-0.707947" max="0.606628" rms="0.076241"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Laser-whiplash-01" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.11444444">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="28773">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ed7.au" len="28773" min="-0.707947" max="0.606628" rms="0.076241"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Laser-whiplash-01" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.26461352">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="28773">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ed7.au" len="28773" min="-0.707947" max="0.606628" rms="0.076241"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

@@ -1,0 +1,1325 @@
+fileFormatVersion: 2
+guid: d0d735ad6ada97944a786fc7f0d2a879
+timeCreated: 1459994165
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: abs_cntrl
+    100002: all
+    100004: ankle_l
+    100006: ankle_r
+    100008: bones
+    100010: chest
+    100012: //RootNode
+    100014: elbow_l
+    100016: elbow_r
+    100018: foot_l
+    100020: foot_r
+    100022: head
+    100024: head_cntrl
+    100026: head_top
+    100028: hip_l
+    100030: hip_r
+    100032: joint1
+    100034: joint2
+    100036: joint3
+    100038: joint4
+    100040: knee_l
+    100042: knee_r
+    100044: l_digit_ring_cntrl
+    100046: l_digit_ring_cntrl1
+    100048: l_digit_ring_cntrl2
+    100050: l_elbow_cntrl
+    100052: l_foot_cntrl
+    100054: l_halfleg_cntrl
+    100056: l_hand_cntrl
+    100058: l_knee_cntrl
+    100060: l_knuckle_pointer_cntrl
+    100062: l_knuckle_ring_cntrl
+    100064: l_knuckle_thumb_cntrl
+    100066: l_shoulder_cntrl
+    100068: l_thigh_cntrl
+    100070: lower_chest
+    100072: neck
+    100074: neck_cntrl
+    100076: nurbsCircle2
+    100078: pasted__r_knuckle_pointer_cntrl
+    100080: pasted__r_knuckle_pointer_cntrl1
+    100082: pasted__r_knuckle_pointer_cntrl2
+    100084: pasted__r_knuckle_pointer_cntrl3
+    100086: pointer_cntrl
+    100088: r_elbow_cntrl
+    100090: r_elbow_cntrl 1
+    100092: r_foot_cntrl
+    100094: r_halfleg_cntrl
+    100096: r_hand_cntrl
+    100098: r_knee_cntrl
+    100100: r_knuckle_pointer_cntrl
+    100102: r_knuckle_pointer_cntrl 1
+    100104: r_knuckle_pointer_cntrl1
+    100106: r_shoulder_cntrl
+    100108: r_shoulder_cntrl 1
+    100110: r_thigh_cntrl
+    100112: reverso_racket_v1:racket1
+    100114: rig
+    100116: ring_cntrl
+    100118: ring_digit_cntrl
+    100120: shoulder_l
+    100122: shoulder_r
+    100124: spine
+    100126: stomach
+    100128: thumb_knuckle_cntrl
+    100130: toe_point_l
+    100132: toe_point_r
+    100134: torso_cntrl
+    100136: total_cntrl
+    100138: waist_cntrl
+    400000: abs_cntrl
+    400002: all
+    400004: ankle_l
+    400006: ankle_r
+    400008: bones
+    400010: chest
+    400012: //RootNode
+    400014: elbow_l
+    400016: elbow_r
+    400018: foot_l
+    400020: foot_r
+    400022: head
+    400024: head_cntrl
+    400026: head_top
+    400028: hip_l
+    400030: hip_r
+    400032: joint1
+    400034: joint2
+    400036: joint3
+    400038: joint4
+    400040: knee_l
+    400042: knee_r
+    400044: l_digit_ring_cntrl
+    400046: l_digit_ring_cntrl1
+    400048: l_digit_ring_cntrl2
+    400050: l_elbow_cntrl
+    400052: l_foot_cntrl
+    400054: l_halfleg_cntrl
+    400056: l_hand_cntrl
+    400058: l_knee_cntrl
+    400060: l_knuckle_pointer_cntrl
+    400062: l_knuckle_ring_cntrl
+    400064: l_knuckle_thumb_cntrl
+    400066: l_shoulder_cntrl
+    400068: l_thigh_cntrl
+    400070: lower_chest
+    400072: neck
+    400074: neck_cntrl
+    400076: nurbsCircle2
+    400078: pasted__r_knuckle_pointer_cntrl
+    400080: pasted__r_knuckle_pointer_cntrl1
+    400082: pasted__r_knuckle_pointer_cntrl2
+    400084: pasted__r_knuckle_pointer_cntrl3
+    400086: pointer_cntrl
+    400088: r_elbow_cntrl
+    400090: r_elbow_cntrl 1
+    400092: r_foot_cntrl
+    400094: r_halfleg_cntrl
+    400096: r_hand_cntrl
+    400098: r_knee_cntrl
+    400100: r_knuckle_pointer_cntrl
+    400102: r_knuckle_pointer_cntrl 1
+    400104: r_knuckle_pointer_cntrl1
+    400106: r_shoulder_cntrl
+    400108: r_shoulder_cntrl 1
+    400110: r_thigh_cntrl
+    400112: reverso_racket_v1:racket1
+    400114: rig
+    400116: ring_cntrl
+    400118: ring_digit_cntrl
+    400120: shoulder_l
+    400122: shoulder_r
+    400124: spine
+    400126: stomach
+    400128: thumb_knuckle_cntrl
+    400130: toe_point_l
+    400132: toe_point_r
+    400134: torso_cntrl
+    400136: total_cntrl
+    400138: waist_cntrl
+    4300000: reverso_racket_v1:racket1
+    7400000: Clem_Walk
+    7400002: Clem_Front Attack
+    7400004: Clem_Idle
+    7400006: Clem_Back Attack
+    7400008: Clem_Left Attack
+    7400010: Right Attack
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: reverso_racket_v1:racket1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Clem_Walk
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: all
+        weight: 1
+      - path: all/bones
+        weight: 1
+      - path: all/bones/spine
+        weight: 1
+      - path: all/bones/spine/hip_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l/foot_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l/foot_l/toe_point_l
+        weight: 1
+      - path: all/bones/spine/hip_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r/foot_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r/foot_r/toe_point_r
+        weight: 1
+      - path: all/bones/spine/stomach
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck/head
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck/head/head_top
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l/joint1
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l/joint1/joint2
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r/joint3
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r/joint3/joint4
+        weight: 1
+      - path: all/rig
+        weight: 1
+      - path: all/rig/waist_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/nurbsCircle2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_pointer_cntrl/l_digit_ring_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_ring_cntrl/l_digit_ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_thumb_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_thumb_cntrl/l_digit_ring_cntrl2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/neck_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/neck_cntrl/head_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1/pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1/pointer_cntrl/pasted__r_knuckle_pointer_cntrl2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl/ring_digit_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl/ring_digit_cntrl/pasted__r_knuckle_pointer_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl/r_knuckle_pointer_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl/r_knuckle_pointer_cntrl1/pasted__r_knuckle_pointer_cntrl3
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl/l_halfleg_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl/l_halfleg_cntrl/l_foot_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl/r_halfleg_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl/r_halfleg_cntrl/r_foot_cntrl
+        weight: 1
+      - path: reverso_racket_v1:racket1
+        weight: 1
+      - path: total_cntrl
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Clem_Front Attack
+      takeName: Take 001
+      firstFrame: 34
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: all
+        weight: 1
+      - path: all/bones
+        weight: 1
+      - path: all/bones/spine
+        weight: 1
+      - path: all/bones/spine/hip_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l/foot_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l/foot_l/toe_point_l
+        weight: 1
+      - path: all/bones/spine/hip_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r/foot_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r/foot_r/toe_point_r
+        weight: 1
+      - path: all/bones/spine/stomach
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck/head
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck/head/head_top
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l/joint1
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l/joint1/joint2
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r/joint3
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r/joint3/joint4
+        weight: 1
+      - path: all/rig
+        weight: 1
+      - path: all/rig/waist_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/nurbsCircle2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_pointer_cntrl/l_digit_ring_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_ring_cntrl/l_digit_ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_thumb_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_thumb_cntrl/l_digit_ring_cntrl2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/neck_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/neck_cntrl/head_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1/pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1/pointer_cntrl/pasted__r_knuckle_pointer_cntrl2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl/ring_digit_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl/ring_digit_cntrl/pasted__r_knuckle_pointer_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl/r_knuckle_pointer_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl/r_knuckle_pointer_cntrl1/pasted__r_knuckle_pointer_cntrl3
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl/l_halfleg_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl/l_halfleg_cntrl/l_foot_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl/r_halfleg_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl/r_halfleg_cntrl/r_foot_cntrl
+        weight: 1
+      - path: reverso_racket_v1:racket1
+        weight: 1
+      - path: total_cntrl
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Clem_Idle
+      takeName: Take 001
+      firstFrame: 51
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: all
+        weight: 1
+      - path: all/bones
+        weight: 1
+      - path: all/bones/spine
+        weight: 1
+      - path: all/bones/spine/hip_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l/foot_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l/foot_l/toe_point_l
+        weight: 1
+      - path: all/bones/spine/hip_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r/foot_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r/foot_r/toe_point_r
+        weight: 1
+      - path: all/bones/spine/stomach
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck/head
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck/head/head_top
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l/joint1
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l/joint1/joint2
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r/joint3
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r/joint3/joint4
+        weight: 1
+      - path: all/rig
+        weight: 1
+      - path: all/rig/waist_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/nurbsCircle2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_pointer_cntrl/l_digit_ring_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_ring_cntrl/l_digit_ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_thumb_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_thumb_cntrl/l_digit_ring_cntrl2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/neck_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/neck_cntrl/head_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1/pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1/pointer_cntrl/pasted__r_knuckle_pointer_cntrl2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl/ring_digit_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl/ring_digit_cntrl/pasted__r_knuckle_pointer_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl/r_knuckle_pointer_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl/r_knuckle_pointer_cntrl1/pasted__r_knuckle_pointer_cntrl3
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl/l_halfleg_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl/l_halfleg_cntrl/l_foot_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl/r_halfleg_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl/r_halfleg_cntrl/r_foot_cntrl
+        weight: 1
+      - path: reverso_racket_v1:racket1
+        weight: 1
+      - path: total_cntrl
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Clem_Back Attack
+      takeName: Take 001
+      firstFrame: 74
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: all
+        weight: 1
+      - path: all/bones
+        weight: 1
+      - path: all/bones/spine
+        weight: 1
+      - path: all/bones/spine/hip_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l/foot_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l/foot_l/toe_point_l
+        weight: 1
+      - path: all/bones/spine/hip_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r/foot_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r/foot_r/toe_point_r
+        weight: 1
+      - path: all/bones/spine/stomach
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck/head
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck/head/head_top
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l/joint1
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l/joint1/joint2
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r/joint3
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r/joint3/joint4
+        weight: 1
+      - path: all/rig
+        weight: 1
+      - path: all/rig/waist_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/nurbsCircle2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_pointer_cntrl/l_digit_ring_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_ring_cntrl/l_digit_ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_thumb_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_thumb_cntrl/l_digit_ring_cntrl2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/neck_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/neck_cntrl/head_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1/pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1/pointer_cntrl/pasted__r_knuckle_pointer_cntrl2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl/ring_digit_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl/ring_digit_cntrl/pasted__r_knuckle_pointer_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl/r_knuckle_pointer_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl/r_knuckle_pointer_cntrl1/pasted__r_knuckle_pointer_cntrl3
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl/l_halfleg_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl/l_halfleg_cntrl/l_foot_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl/r_halfleg_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl/r_halfleg_cntrl/r_foot_cntrl
+        weight: 1
+      - path: reverso_racket_v1:racket1
+        weight: 1
+      - path: total_cntrl
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Clem_Left Attack
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 104
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: all
+        weight: 1
+      - path: all/bones
+        weight: 1
+      - path: all/bones/spine
+        weight: 1
+      - path: all/bones/spine/hip_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l/foot_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l/foot_l/toe_point_l
+        weight: 1
+      - path: all/bones/spine/hip_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r/foot_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r/foot_r/toe_point_r
+        weight: 1
+      - path: all/bones/spine/stomach
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck/head
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck/head/head_top
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l/joint1
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l/joint1/joint2
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r/joint3
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r/joint3/joint4
+        weight: 1
+      - path: all/rig
+        weight: 1
+      - path: all/rig/waist_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/nurbsCircle2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_pointer_cntrl/l_digit_ring_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_ring_cntrl/l_digit_ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_thumb_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_thumb_cntrl/l_digit_ring_cntrl2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/neck_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/neck_cntrl/head_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1/pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1/pointer_cntrl/pasted__r_knuckle_pointer_cntrl2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl/ring_digit_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl/ring_digit_cntrl/pasted__r_knuckle_pointer_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl/r_knuckle_pointer_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl/r_knuckle_pointer_cntrl1/pasted__r_knuckle_pointer_cntrl3
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl/l_halfleg_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl/l_halfleg_cntrl/l_foot_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl/r_halfleg_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl/r_halfleg_cntrl/r_foot_cntrl
+        weight: 1
+      - path: reverso_racket_v1:racket1
+        weight: 1
+      - path: total_cntrl
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Right Attack
+      takeName: Take 001
+      firstFrame: 108
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: all
+        weight: 1
+      - path: all/bones
+        weight: 1
+      - path: all/bones/spine
+        weight: 1
+      - path: all/bones/spine/hip_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l/foot_l
+        weight: 1
+      - path: all/bones/spine/hip_l/knee_l/ankle_l/foot_l/toe_point_l
+        weight: 1
+      - path: all/bones/spine/hip_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r/foot_r
+        weight: 1
+      - path: all/bones/spine/hip_r/knee_r/ankle_r/foot_r/toe_point_r
+        weight: 1
+      - path: all/bones/spine/stomach
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck/head
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/neck/head/head_top
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l/joint1
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_l/elbow_l/joint1/joint2
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r/joint3
+        weight: 1
+      - path: all/bones/spine/stomach/lower_chest/chest/shoulder_r/elbow_r/joint3/joint4
+        weight: 1
+      - path: all/rig
+        weight: 1
+      - path: all/rig/waist_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/nurbsCircle2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_pointer_cntrl/l_digit_ring_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_ring_cntrl/l_digit_ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_thumb_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/l_shoulder_cntrl/l_elbow_cntrl/l_hand_cntrl/l_knuckle_thumb_cntrl/l_digit_ring_cntrl2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/neck_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/neck_cntrl/head_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1/pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/r_knuckle_pointer_cntrl/r_knuckle_pointer_cntrl
+          1/pointer_cntrl/pasted__r_knuckle_pointer_cntrl2
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl/ring_digit_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/ring_cntrl/pasted__r_knuckle_pointer_cntrl/ring_digit_cntrl/pasted__r_knuckle_pointer_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl/r_knuckle_pointer_cntrl1
+        weight: 1
+      - path: all/rig/waist_cntrl/abs_cntrl/torso_cntrl/r_shoulder_cntrl/r_shoulder_cntrl
+          1/r_elbow_cntrl/r_elbow_cntrl 1/r_hand_cntrl/thumb_knuckle_cntrl/r_knuckle_pointer_cntrl1/pasted__r_knuckle_pointer_cntrl3
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl/l_halfleg_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/l_thigh_cntrl/l_knee_cntrl/l_halfleg_cntrl/l_foot_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl/r_halfleg_cntrl
+        weight: 1
+      - path: all/rig/waist_cntrl/r_thigh_cntrl/r_knee_cntrl/r_halfleg_cntrl/r_foot_cntrl
+        weight: 1
+      - path: reverso_racket_v1:racket1
+        weight: 1
+      - path: total_cntrl
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

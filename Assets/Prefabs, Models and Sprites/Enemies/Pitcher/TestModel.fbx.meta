@@ -1,0 +1,837 @@
+fileFormatVersion: 2
+guid: 88784679d8331074780b0caf976021f8
+timeCreated: 1459964926
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arm_l
+    100002: arm_r
+    100004: body
+    100006: body 1
+    100008: calf_l
+    100010: calf_r
+    100012: elbow_l
+    100014: elbow_l 1
+    100016: elbow_r
+    100018: elbow_r 1
+    100020: finger_cntrl_r
+    100022: finger_joint_l
+    100024: finger_joint_l 1
+    100026: finger_joint_r
+    100028: finger_joint_r 1
+    100030: finger_knuckle_l
+    100032: finger_knuckle_r
+    100034: finger_point_l
+    100036: finger_point_l 1
+    100038: finger_point_r
+    100040: finger_point_r 1
+    100042: foot_cntrl_l
+    100044: foot_cntrl_r
+    100046: forearm_l
+    100048: forearm_r
+    100050: head
+    100052: head 1
+    100054: head_cntrl
+    100056: head_top
+    100058: knee_l
+    100060: knee_r
+    100062: knuckle_cntrl_r
+    100064: leg_l
+    100066: leg_l 1
+    100068: leg_r
+    100070: leg_r 1
+    100072: neck
+    100074: rig
+    100076: shoulder_l
+    100078: shoulder_l 1
+    100080: shoulder_l 2
+    100082: shoulder_r
+    100084: shoulder_r 1
+    100086: shoulder_r 2
+    100088: spine
+    100090: //RootNode
+    100092: thigh_cntrl_l
+    100094: thigh_cntrl_r
+    100096: thigh_l
+    100098: thigh_r
+    100100: thumb_joint_l
+    100102: thumb_joint_l 1
+    100104: thumb_joint_r
+    100106: thumb_joint_r 1
+    100108: thumb_knuckle_cntrl_l
+    100110: thumb_knuckle_cntrl_r
+    100112: thumb_knuckle_l
+    100114: thumb_knuckle_r
+    100116: thumb_point_cntrl_l
+    100118: thumb_point_cntrl_r
+    100120: thumb_point_l
+    100122: thumb_point_l 1
+    100124: thumb_point_r
+    100126: thumb_point_r 1
+    100128: toe_l
+    100130: toe_r
+    100132: waist_cntrl
+    100134: wrist_l
+    100136: wrist_l 1
+    100138: wrist_l 2
+    100140: wrist_l1
+    100142: wrist_l2
+    100144: wrist_r
+    100146: wrist_r 1
+    100148: wrist_r 2
+    400000: arm_l
+    400002: arm_r
+    400004: body
+    400006: body 1
+    400008: calf_l
+    400010: calf_r
+    400012: elbow_l
+    400014: elbow_l 1
+    400016: elbow_r
+    400018: elbow_r 1
+    400020: finger_cntrl_r
+    400022: finger_joint_l
+    400024: finger_joint_l 1
+    400026: finger_joint_r
+    400028: finger_joint_r 1
+    400030: finger_knuckle_l
+    400032: finger_knuckle_r
+    400034: finger_point_l
+    400036: finger_point_l 1
+    400038: finger_point_r
+    400040: finger_point_r 1
+    400042: foot_cntrl_l
+    400044: foot_cntrl_r
+    400046: forearm_l
+    400048: forearm_r
+    400050: head
+    400052: head 1
+    400054: head_cntrl
+    400056: head_top
+    400058: knee_l
+    400060: knee_r
+    400062: knuckle_cntrl_r
+    400064: leg_l
+    400066: leg_l 1
+    400068: leg_r
+    400070: leg_r 1
+    400072: neck
+    400074: rig
+    400076: shoulder_l
+    400078: shoulder_l 1
+    400080: shoulder_l 2
+    400082: shoulder_r
+    400084: shoulder_r 1
+    400086: shoulder_r 2
+    400088: spine
+    400090: //RootNode
+    400092: thigh_cntrl_l
+    400094: thigh_cntrl_r
+    400096: thigh_l
+    400098: thigh_r
+    400100: thumb_joint_l
+    400102: thumb_joint_l 1
+    400104: thumb_joint_r
+    400106: thumb_joint_r 1
+    400108: thumb_knuckle_cntrl_l
+    400110: thumb_knuckle_cntrl_r
+    400112: thumb_knuckle_l
+    400114: thumb_knuckle_r
+    400116: thumb_point_cntrl_l
+    400118: thumb_point_cntrl_r
+    400120: thumb_point_l
+    400122: thumb_point_l 1
+    400124: thumb_point_r
+    400126: thumb_point_r 1
+    400128: toe_l
+    400130: toe_r
+    400132: waist_cntrl
+    400134: wrist_l
+    400136: wrist_l 1
+    400138: wrist_l 2
+    400140: wrist_l1
+    400142: wrist_l2
+    400144: wrist_r
+    400146: wrist_r 1
+    400148: wrist_r 2
+    2300000: body 1
+    2300002: calf_l
+    2300004: calf_r
+    2300006: finger_joint_l
+    2300008: finger_joint_r
+    2300010: finger_point_l
+    2300012: finger_point_r
+    2300014: forearm_l
+    2300016: forearm_r
+    2300018: head
+    2300020: shoulder_l
+    2300022: shoulder_r
+    2300024: thigh_l
+    2300026: thigh_r
+    2300028: thumb_joint_l
+    2300030: thumb_joint_r
+    2300032: thumb_point_l
+    2300034: thumb_point_r
+    2300036: wrist_l
+    2300038: wrist_r
+    3300000: body 1
+    3300002: calf_l
+    3300004: calf_r
+    3300006: finger_joint_l
+    3300008: finger_joint_r
+    3300010: finger_point_l
+    3300012: finger_point_r
+    3300014: forearm_l
+    3300016: forearm_r
+    3300018: head
+    3300020: shoulder_l
+    3300022: shoulder_r
+    3300024: thigh_l
+    3300026: thigh_r
+    3300028: thumb_joint_l
+    3300030: thumb_joint_r
+    3300032: thumb_point_l
+    3300034: thumb_point_r
+    3300036: wrist_l
+    3300038: wrist_r
+    4300000: calf_l
+    4300002: thigh_l
+    4300004: shoulder_l
+    4300006: forearm_l
+    4300008: finger_joint_l
+    4300010: finger_point_l
+    4300012: thumb_joint_l
+    4300014: wrist_l
+    4300016: thumb_point_l
+    4300018: calf_r
+    4300020: thigh_r
+    4300022: shoulder_r
+    4300024: forearm_r
+    4300026: finger_joint_r
+    4300028: finger_point_r
+    4300030: thumb_joint_r
+    4300032: wrist_r
+    4300034: thumb_point_r
+    4300036: head
+    4300038: body
+    7400000: PitcherRun
+    7400002: PitcherThrow
+    7400004: PitcherIdle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PitcherRun
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body
+        weight: 1
+      - path: body/arm_l
+        weight: 1
+      - path: body/arm_l/finger_joint_l
+        weight: 1
+      - path: body/arm_l/finger_point_l
+        weight: 1
+      - path: body/arm_l/forearm_l
+        weight: 1
+      - path: body/arm_l/shoulder_l
+        weight: 1
+      - path: body/arm_l/thumb_joint_l
+        weight: 1
+      - path: body/arm_l/thumb_point_l
+        weight: 1
+      - path: body/arm_l/wrist_l
+        weight: 1
+      - path: body/arm_r
+        weight: 1
+      - path: body/arm_r/finger_joint_r
+        weight: 1
+      - path: body/arm_r/finger_point_r
+        weight: 1
+      - path: body/arm_r/forearm_r
+        weight: 1
+      - path: body/arm_r/shoulder_r
+        weight: 1
+      - path: body/arm_r/thumb_joint_r
+        weight: 1
+      - path: body/arm_r/thumb_point_r
+        weight: 1
+      - path: body/arm_r/wrist_r
+        weight: 1
+      - path: body/body 1
+        weight: 1
+      - path: body/head
+        weight: 1
+      - path: body/leg_l
+        weight: 1
+      - path: body/leg_l/calf_l
+        weight: 1
+      - path: body/leg_l/thigh_l
+        weight: 1
+      - path: body/leg_r
+        weight: 1
+      - path: body/leg_r/calf_r
+        weight: 1
+      - path: body/leg_r/thigh_r
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/waist_cntrl
+        weight: 1
+      - path: rig/waist_cntrl/head_cntrl
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1/thumb_knuckle_cntrl_l
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1/thumb_knuckle_cntrl_l/thumb_point_cntrl_l
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1/wrist_l1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1/wrist_l1/wrist_l2
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1/knuckle_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1/knuckle_cntrl_r/finger_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1/thumb_knuckle_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1/thumb_knuckle_cntrl_r/thumb_point_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/thigh_cntrl_l
+        weight: 1
+      - path: rig/waist_cntrl/thigh_cntrl_l/foot_cntrl_l
+        weight: 1
+      - path: rig/waist_cntrl/thigh_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/thigh_cntrl_r/foot_cntrl_r
+        weight: 1
+      - path: spine
+        weight: 1
+      - path: spine/leg_l 1
+        weight: 1
+      - path: spine/leg_l 1/knee_l
+        weight: 1
+      - path: spine/leg_l 1/knee_l/toe_l
+        weight: 1
+      - path: spine/leg_r 1
+        weight: 1
+      - path: spine/leg_r 1/knee_r
+        weight: 1
+      - path: spine/leg_r 1/knee_r/toe_r
+        weight: 1
+      - path: spine/neck
+        weight: 1
+      - path: spine/neck/head 1
+        weight: 1
+      - path: spine/neck/head 1/head_top
+        weight: 1
+      - path: spine/neck/shoulder_l 2
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/finger_knuckle_l
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/finger_knuckle_l/finger_joint_l
+          1
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/finger_knuckle_l/finger_joint_l
+          1/finger_point_l 1
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/thumb_knuckle_l
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/thumb_knuckle_l/thumb_joint_l
+          1
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/thumb_knuckle_l/thumb_joint_l
+          1/thumb_point_l 1
+        weight: 1
+      - path: spine/neck/shoulder_r 2
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/finger_knuckle_r
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/finger_knuckle_r/finger_joint_r
+          1
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/finger_knuckle_r/finger_joint_r
+          1/finger_point_r 1
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/thumb_knuckle_r
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/thumb_knuckle_r/thumb_joint_r
+          1
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/thumb_knuckle_r/thumb_joint_r
+          1/thumb_point_r 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PitcherThrow
+      takeName: Take 001
+      firstFrame: 34
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body
+        weight: 1
+      - path: body/arm_l
+        weight: 1
+      - path: body/arm_l/finger_joint_l
+        weight: 1
+      - path: body/arm_l/finger_point_l
+        weight: 1
+      - path: body/arm_l/forearm_l
+        weight: 1
+      - path: body/arm_l/shoulder_l
+        weight: 1
+      - path: body/arm_l/thumb_joint_l
+        weight: 1
+      - path: body/arm_l/thumb_point_l
+        weight: 1
+      - path: body/arm_l/wrist_l
+        weight: 1
+      - path: body/arm_r
+        weight: 1
+      - path: body/arm_r/finger_joint_r
+        weight: 1
+      - path: body/arm_r/finger_point_r
+        weight: 1
+      - path: body/arm_r/forearm_r
+        weight: 1
+      - path: body/arm_r/shoulder_r
+        weight: 1
+      - path: body/arm_r/thumb_joint_r
+        weight: 1
+      - path: body/arm_r/thumb_point_r
+        weight: 1
+      - path: body/arm_r/wrist_r
+        weight: 1
+      - path: body/body 1
+        weight: 1
+      - path: body/head
+        weight: 1
+      - path: body/leg_l
+        weight: 1
+      - path: body/leg_l/calf_l
+        weight: 1
+      - path: body/leg_l/thigh_l
+        weight: 1
+      - path: body/leg_r
+        weight: 1
+      - path: body/leg_r/calf_r
+        weight: 1
+      - path: body/leg_r/thigh_r
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/waist_cntrl
+        weight: 1
+      - path: rig/waist_cntrl/head_cntrl
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1/thumb_knuckle_cntrl_l
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1/thumb_knuckle_cntrl_l/thumb_point_cntrl_l
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1/wrist_l1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1/wrist_l1/wrist_l2
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1/knuckle_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1/knuckle_cntrl_r/finger_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1/thumb_knuckle_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1/thumb_knuckle_cntrl_r/thumb_point_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/thigh_cntrl_l
+        weight: 1
+      - path: rig/waist_cntrl/thigh_cntrl_l/foot_cntrl_l
+        weight: 1
+      - path: rig/waist_cntrl/thigh_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/thigh_cntrl_r/foot_cntrl_r
+        weight: 1
+      - path: spine
+        weight: 1
+      - path: spine/leg_l 1
+        weight: 1
+      - path: spine/leg_l 1/knee_l
+        weight: 1
+      - path: spine/leg_l 1/knee_l/toe_l
+        weight: 1
+      - path: spine/leg_r 1
+        weight: 1
+      - path: spine/leg_r 1/knee_r
+        weight: 1
+      - path: spine/leg_r 1/knee_r/toe_r
+        weight: 1
+      - path: spine/neck
+        weight: 1
+      - path: spine/neck/head 1
+        weight: 1
+      - path: spine/neck/head 1/head_top
+        weight: 1
+      - path: spine/neck/shoulder_l 2
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/finger_knuckle_l
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/finger_knuckle_l/finger_joint_l
+          1
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/finger_knuckle_l/finger_joint_l
+          1/finger_point_l 1
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/thumb_knuckle_l
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/thumb_knuckle_l/thumb_joint_l
+          1
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/thumb_knuckle_l/thumb_joint_l
+          1/thumb_point_l 1
+        weight: 1
+      - path: spine/neck/shoulder_r 2
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/finger_knuckle_r
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/finger_knuckle_r/finger_joint_r
+          1
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/finger_knuckle_r/finger_joint_r
+          1/finger_point_r 1
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/thumb_knuckle_r
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/thumb_knuckle_r/thumb_joint_r
+          1
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/thumb_knuckle_r/thumb_joint_r
+          1/thumb_point_r 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PitcherIdle
+      takeName: Take 001
+      firstFrame: 67
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body
+        weight: 1
+      - path: body/arm_l
+        weight: 1
+      - path: body/arm_l/finger_joint_l
+        weight: 1
+      - path: body/arm_l/finger_point_l
+        weight: 1
+      - path: body/arm_l/forearm_l
+        weight: 1
+      - path: body/arm_l/shoulder_l
+        weight: 1
+      - path: body/arm_l/thumb_joint_l
+        weight: 1
+      - path: body/arm_l/thumb_point_l
+        weight: 1
+      - path: body/arm_l/wrist_l
+        weight: 1
+      - path: body/arm_r
+        weight: 1
+      - path: body/arm_r/finger_joint_r
+        weight: 1
+      - path: body/arm_r/finger_point_r
+        weight: 1
+      - path: body/arm_r/forearm_r
+        weight: 1
+      - path: body/arm_r/shoulder_r
+        weight: 1
+      - path: body/arm_r/thumb_joint_r
+        weight: 1
+      - path: body/arm_r/thumb_point_r
+        weight: 1
+      - path: body/arm_r/wrist_r
+        weight: 1
+      - path: body/body 1
+        weight: 1
+      - path: body/head
+        weight: 1
+      - path: body/leg_l
+        weight: 1
+      - path: body/leg_l/calf_l
+        weight: 1
+      - path: body/leg_l/thigh_l
+        weight: 1
+      - path: body/leg_r
+        weight: 1
+      - path: body/leg_r/calf_r
+        weight: 1
+      - path: body/leg_r/thigh_r
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/waist_cntrl
+        weight: 1
+      - path: rig/waist_cntrl/head_cntrl
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1/thumb_knuckle_cntrl_l
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1/thumb_knuckle_cntrl_l/thumb_point_cntrl_l
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1/wrist_l1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_l 1/elbow_l/wrist_l 1/wrist_l1/wrist_l2
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1/knuckle_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1/knuckle_cntrl_r/finger_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1/thumb_knuckle_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/shoulder_r 1/elbow_r/wrist_r 1/thumb_knuckle_cntrl_r/thumb_point_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/thigh_cntrl_l
+        weight: 1
+      - path: rig/waist_cntrl/thigh_cntrl_l/foot_cntrl_l
+        weight: 1
+      - path: rig/waist_cntrl/thigh_cntrl_r
+        weight: 1
+      - path: rig/waist_cntrl/thigh_cntrl_r/foot_cntrl_r
+        weight: 1
+      - path: spine
+        weight: 1
+      - path: spine/leg_l 1
+        weight: 1
+      - path: spine/leg_l 1/knee_l
+        weight: 1
+      - path: spine/leg_l 1/knee_l/toe_l
+        weight: 1
+      - path: spine/leg_r 1
+        weight: 1
+      - path: spine/leg_r 1/knee_r
+        weight: 1
+      - path: spine/leg_r 1/knee_r/toe_r
+        weight: 1
+      - path: spine/neck
+        weight: 1
+      - path: spine/neck/head 1
+        weight: 1
+      - path: spine/neck/head 1/head_top
+        weight: 1
+      - path: spine/neck/shoulder_l 2
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/finger_knuckle_l
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/finger_knuckle_l/finger_joint_l
+          1
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/finger_knuckle_l/finger_joint_l
+          1/finger_point_l 1
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/thumb_knuckle_l
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/thumb_knuckle_l/thumb_joint_l
+          1
+        weight: 1
+      - path: spine/neck/shoulder_l 2/elbow_l 1/wrist_l 2/thumb_knuckle_l/thumb_joint_l
+          1/thumb_point_l 1
+        weight: 1
+      - path: spine/neck/shoulder_r 2
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/finger_knuckle_r
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/finger_knuckle_r/finger_joint_r
+          1
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/finger_knuckle_r/finger_joint_r
+          1/finger_point_r 1
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/thumb_knuckle_r
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/thumb_knuckle_r/thumb_joint_r
+          1
+        weight: 1
+      - path: spine/neck/shoulder_r 2/elbow_r 1/wrist_r 2/thumb_knuckle_r/thumb_joint_r
+          1/thumb_point_r 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
