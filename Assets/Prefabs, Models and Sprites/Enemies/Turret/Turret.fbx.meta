@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 9ce102e778f85ee46acf785a00abaa74
+timeCreated: 1459966467
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: barrel
+    100002: base
+    100004: base1
+    100006: calf
+    100008: calf 1
+    100010: cntrl_head
+    100012: cntrl_knee
+    100014: cntrl_main
+    100016: foot
+    100018: foot 1
+    100020: head
+    100022: head 1
+    100024: head_top
+    100026: knee
+    100028: knee 1
+    100030: neck
+    100032: //RootNode
+    100034: wheel_1
+    100036: wheel_2
+    400000: barrel
+    400002: base
+    400004: base1
+    400006: calf
+    400008: calf 1
+    400010: cntrl_head
+    400012: cntrl_knee
+    400014: cntrl_main
+    400016: foot
+    400018: foot 1
+    400020: head
+    400022: head 1
+    400024: head_top
+    400026: knee
+    400028: knee 1
+    400030: neck
+    400032: //RootNode
+    400034: wheel_1
+    400036: wheel_2
+    2300000: barrel
+    2300002: base
+    2300004: calf
+    2300006: foot
+    2300008: head
+    2300010: knee
+    2300012: wheel_1
+    2300014: wheel_2
+    3300000: barrel
+    3300002: base
+    3300004: calf
+    3300006: foot
+    3300008: head
+    3300010: knee
+    3300012: wheel_1
+    3300014: wheel_2
+    4300000: calf
+    4300002: head
+    4300004: base
+    4300006: wheel_1
+    4300008: knee
+    4300010: foot
+    4300012: wheel_2
+    4300014: barrel
+    7400000: TurretIdle
+    7400002: TurretAttack
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: TurretIdle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: barrel
+        weight: 1
+      - path: base
+        weight: 1
+      - path: base1
+        weight: 1
+      - path: base1/foot 1
+        weight: 1
+      - path: base1/foot 1/knee 1
+        weight: 1
+      - path: base1/foot 1/knee 1/calf 1
+        weight: 1
+      - path: base1/foot 1/knee 1/calf 1/neck
+        weight: 1
+      - path: base1/foot 1/knee 1/calf 1/neck/head 1
+        weight: 1
+      - path: base1/foot 1/knee 1/calf 1/neck/head 1/head_top
+        weight: 1
+      - path: calf
+        weight: 1
+      - path: cntrl_main
+        weight: 1
+      - path: cntrl_main/cntrl_knee
+        weight: 1
+      - path: cntrl_main/cntrl_knee/cntrl_head
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: head
+        weight: 1
+      - path: knee
+        weight: 1
+      - path: wheel_1
+        weight: 1
+      - path: wheel_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: TurretAttack
+      takeName: Take 001
+      firstFrame: 71
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: barrel
+        weight: 1
+      - path: base
+        weight: 1
+      - path: base1
+        weight: 1
+      - path: base1/foot 1
+        weight: 1
+      - path: base1/foot 1/knee 1
+        weight: 1
+      - path: base1/foot 1/knee 1/calf 1
+        weight: 1
+      - path: base1/foot 1/knee 1/calf 1/neck
+        weight: 1
+      - path: base1/foot 1/knee 1/calf 1/neck/head 1
+        weight: 1
+      - path: base1/foot 1/knee 1/calf 1/neck/head 1/head_top
+        weight: 1
+      - path: calf
+        weight: 1
+      - path: cntrl_main
+        weight: 1
+      - path: cntrl_main/cntrl_knee
+        weight: 1
+      - path: cntrl_main/cntrl_knee/cntrl_head
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: head
+        weight: 1
+      - path: knee
+        weight: 1
+      - path: wheel_1
+        weight: 1
+      - path: wheel_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
